@@ -255,7 +255,7 @@ I'd also like to thank [Dr. Jekyll's Themes](https://drjekyllthemes.github.io/),
      font-size: 30px;
 }
  .gs-section-01 p {
-     font-family: "Times New Roman";
+     font-family: Arial;
 }
 .gs-section-02 h3 { 
      color: blue }
@@ -264,6 +264,6 @@ I'd also like to thank [Dr. Jekyll's Themes](https://drjekyllthemes.github.io/),
      font-size: 50px;
 }
  .gs-section-01 p {
-     font-family: "Serif";
+     font-family: Serif;
 }
 </style>
