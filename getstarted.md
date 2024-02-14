@@ -254,11 +254,16 @@ I'd also like to thank [Dr. Jekyll's Themes](https://drjekyllthemes.github.io/),
 .gs-section-01 p {
      font-size: 30px;
 }
- 
+ .gs-section-01 p {
+     font-family: "Times New Roman";
+}
 .gs-section-02 h3 { 
      color: blue }
 
 .gs-section-02 p {
      font-size: 50px;
+}
+ .gs-section-01 p {
+     font-family: "Serif";
 }
 </style>
