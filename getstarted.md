@@ -49,8 +49,17 @@ Developing and maintaining Beautiful Jekyll takes a lot of time and effort - tha
 
 **[Become a sponsor for Beautiful Jekyll and unlock new features\!](https://github.com/sponsors/daattali/sponsorships?tier_id=39856)**
 
-# Build your website in 3 steps
+<div class="gs-section-01" markdown="1">
+ 
+### 1. Fork the Beautiful Jekyll repository
+Fork the [repository](https://github.com/daattali/beautiful-jekyll) 
+by clicking the Fork button on the top right corner in GitHub.
 
+</div>
+
+<div class="gs-section-02" markdown="1">
+ 
+### 2. Build your website in 3 steps
 There are a few different ways to build a website using Beautiful Jekyll, and this document will go through the simplest one: using a fork on GitHub. For most people (including myself!), this easy method is the recommended one.
 
 Even if you choose to use one of the [advanced installation methods](https://beautifuljekyll.com/getstarted/#install-steps-hard), I still suggest you read through the easy method first.
@@ -63,12 +72,6 @@ Scroll down to see the steps involved, but here is a 30-second video just as a r
 
 ![Installation steps](https://beautifuljekyll.com/assets/img/install-steps.gif)
 
-<div class="gs-section-01" markdown="1">
-
-### 1. Fork the Beautiful Jekyll repository 
-
-Fork the [repository](https://github.com/daattali/beautiful-jekyll) 
-by clicking the Fork button on the top right corner in GitHub.
 
 </div>
 
@@ -242,3 +245,20 @@ You can also contribute by becoming an [official sponsor](https://github.com/spo
 This template was not made *entirely* from scratch. I'd like to give special thanks to [Jekyll Now](https://github.com/barryclark/jekyll-now) and [Bootstrap Clean Blog](https://github.com/IronSummitMedia/startbootstrap-clean-blog), from whom I've taken several ideas initially.
 
 I'd also like to thank [Dr. Jekyll's Themes](https://drjekyllthemes.github.io/), [Jekyll Themes](http://jekyllthemes.org/), and another [Jekyll Themes](http://jekyllrc.github.io/jekyllthemes/) for featuring Beautiful Jekyll in their Jekyll theme directories.
+
+<style>
+
+.gs-section-1 h3 { 
+     color: red }
+
+.gs-section-1 p {
+     font-size: 30px;
+}
+ 
+.gs-section-2 h3 { 
+     color: blue }
+
+.gs-section-2 p {
+     font-size: 50px;
+}
+</style>
