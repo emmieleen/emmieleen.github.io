@@ -248,17 +248,17 @@ I'd also like to thank [Dr. Jekyll's Themes](https://drjekyllthemes.github.io/),
 
 <style>
 
-.gs-section-1 h3 { 
+.gs-section-01 h3 { 
      color: red }
 
-.gs-section-1 p {
+.gs-section-01 p {
      font-size: 30px;
 }
  
-.gs-section-2 h3 { 
+.gs-section-02 h3 { 
      color: blue }
 
-.gs-section-2 p {
+.gs-section-02 p {
      font-size: 50px;
 }
 </style>
