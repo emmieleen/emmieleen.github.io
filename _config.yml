@@ -19,6 +19,7 @@ navbar-links:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
     - Getting Started: "getstarted"
+    Table Demo: "table-demo"
   Author's home: "https://emmieleen.com"
 
 # --- Logo --- #
