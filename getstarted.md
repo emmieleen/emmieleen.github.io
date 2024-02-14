@@ -263,7 +263,7 @@ I'd also like to thank [Dr. Jekyll's Themes](https://drjekyllthemes.github.io/),
 .gs-section-02 p {
      font-size: 50px;
 }
- .gs-section-01 p {
+ .gs-section-02 p {
      font-family: Serif;
 }
 </style>
