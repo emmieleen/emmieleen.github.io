@@ -1,16 +1,8 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: GIS • Spatial modeling • R
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Emma Bonham is an environmental data scientist specialized in GIS, spatial modeling, risk mapping, and decision-support tools for environmental hazards. She builds reproducible geospatial workflows and interactive web applications in R, with an emphasis on turning complex spatial datasets into decision-ready outputs. Her work combines raster/vector analysis, geostatistics, and multi-criteria decision making to support environmental screening and prioritization. Tools she commonly uses include R (sf, terra, leaflet, gdistance), ArcGIS Pro/ArcGIS Online, and GitHub for version control and transparent methods.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
-
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
