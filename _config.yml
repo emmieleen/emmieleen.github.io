@@ -14,7 +14,7 @@ author: Emma Bonham
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About: "about"
+  About Me: "aboutme"
   Projects: "projects"
   CV: "cv"
   Contact: "contact"
