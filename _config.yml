@@ -6,7 +6,7 @@
 # --- Required options --- #
 
 # Name of website
-title: A Website by Emma
+title: Emma Bonham - Portfolio
 
 # Your name to show in the footer
 author: Emma Bonham
@@ -14,13 +14,11 @@ author: Emma Bonham
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "Emma is a 2nd-year PhD student in Environmental Engineering at Arizona State University. Her research interests include agricultural nutrient management, water quality monitoring, and environmental risk mapping."
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-    - Getting Started: "getstarted"
-    - Table Demo: "table-demo"
-  Author's home: "https://emmieleen.com"
+  About: "about"
+  Projects: "projects"
+  CV: "cv"
+  Contact: "contact"
+  GitHub: "https://github.com/emmieleen"
 
 # --- Logo --- #
 
@@ -42,9 +40,10 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
   email: "ebonham@asu.edu"
-  facebook: Emma Bonham
   github: emmieleen
+  linkedin: "https://www.linkedin.com/in/bonhamemma/"
   twitter: Emma_Bonham_
+  ORCID: 0000-0002-2122-6186
 #  medium: yourname
 #  reddit: yourname
 #  linkedin: daattali
@@ -78,19 +77,17 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "emmieleen.com"
+url-pretty: "emmieleen.github.io"
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
 excerpt_length: 50
 
-# Whether or not to show an excerpt for every blog post in the feed page
-feed_show_excerpt: true
-
-# Whether or not to show a list of tags below each post preview in the feed page
-feed_show_tags: true
 
 # Add a search button to the navbar
-post_search: true
+post_search: false
+feed_show_excerpt: false
+feed_show_tags: false
+paginate: 0
 
 # The keywords to associate with your website, for SEO purposes
 #keywords: "my,list,of,keywords"
