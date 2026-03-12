@@ -106,6 +106,9 @@ footer-col: "#3d4f3a"
 footer-text-col: "#c8bfaf"
 footer-link-col: "#f5f0e8"
 
+
+site-css:
+  - /assets/css/custom.css
 # Alternatively, the navbar, footer, and page background can be set to an image
 # instead of colour
 
