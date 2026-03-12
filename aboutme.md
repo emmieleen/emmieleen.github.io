@@ -1,10 +1,10 @@
 ---
 layout: page
 title: About Me
-subtitle: Environmental Engineer · GIS & Spatial Modeling · R · EIT
+subtitle: Postdoctoral Research Associate · Environmental Engineer · GIS & Spatial Modeling · R · EIT
 ---
 
-I'm an environmental engineer and PhD candidate at Arizona State University's Ira A. Fulton Schools of Engineering, specializing in water quality analysis, GIS, and predictive modeling for environmental hazard assessment. My dissertation focuses on abandoned mine lands in the American Southwest — developing decision-support tools that help agencies prioritize remediation efforts using water quality signatures, vulnerability scoring, and spatial modeling.
+I'm an environmental engineer and postdoctoral research associate at Arizona State University's Ira A. Fulton Schools of Engineering, specializing in water quality analysis, GIS, spatial modeling, and environmental decision support. My doctoral research focused on abandoned mine lands in the American Southwest — developing tools to help agencies prioritize remediation using water quality signatures, vulnerability scoring, and spatial modeling. In my current postdoctoral work, I apply these skills to global environmental surveillance challenges, including hotspot mapping for pathogen detection in low-resource settings and developing decision frameworks for wastewater-based epidemiology.
 
 My work sits at the intersection of field science and computational methods: I collect water and soil samples in the field, build reproducible geospatial workflows in R, and translate complex datasets into interactive tools that support real-world environmental decisions.
 
@@ -12,9 +12,13 @@ My work sits at the intersection of field science and computational methods: I c
 
 ## Current Research
 
-As a Graduate Research Associate in the **Hamilton Lab Group** at ASU, I lead development of a GIS-integrated R Shiny application for abandoned mine land hazard prioritization. The tool models water quality and environmental predictors to help agencies identify and rank sites for ground-truthing and remediation. I coordinate a tri-university team and work directly with agency partners to align tool design with operational needs.
+As a **Postdoctoral Research Associate** in the **Hamilton Lab Group** at ASU, I contribute to the **NSF Pandemic ESCAPE (PIPP Phase II)** center — a multi-institution effort developing environmental surveillance systems for pandemic prevention. My work spans two interconnected projects within the center's Data to Decisions (D2D) research area:
 
-Previously, with the **Muenich Lab Group**, I conducted field sampling and laboratory analysis for urban stormwater and agricultural water quality studies, and led a state- and national-scale sustainability survey of urban farming practices.
+**Uganda Non-Sewered Hotspot Mapping & Sampling Optimization** — I use GIS and integrated hydraulic/hydrologic modeling to analyze sewer network data and construct estimated drainage networks in areas where infrastructure data are limited. Drawing on machine learning approaches (XGBoost, Bayesian modeling) and agent-based waste release estimates, I develop models that identify priority sampling locations by distinguishing true pathogen hotspots from sites with low signal due to decay or travel time.
+
+**Wastewater Surveillance Decision Frameworks** — I lead partner mapping and decision-tree development for the NSF PIP2 project, which aims to create actionable, customizable decision tools for wastewater-based epidemiology. This involves stakeholder engagement with public health agencies across Arizona, Kentucky, and Alaska; survey and focus group design; and development of a generalizable decision algorithm linking environmental monitoring to public health action. Sites include the Tempe, AZ wastewater network and partners at Maricopa County Department of Public Health and the Arizona Department of Health Services.
+
+**Previously**, as a Graduate Research Associate in the Hamilton Lab, I led development of a GIS-integrated R Shiny application for abandoned mine land hazard prioritization and coordinated a tri-university team working with agency partners across the Southwest.
 
 ---
 
