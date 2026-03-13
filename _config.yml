@@ -11,6 +11,9 @@ title: Emma Bonham - Portfolio
 # Your name to show in the footer
 author: Emma Bonham
 
+url: "https://emmabonham.github.io"
+baseurl: ""
+
 # --- List of links in the navigation bar --- #
 
 navbar-links:
