@@ -84,6 +84,11 @@ subtitle: Selected work in environmental engineering, spatial modeling, and publ
   color: #7a6040;
 }
 
+.badge-personal {
+  background: #eef0f8;
+  color: #4a5080;
+}
+
 .project-card-desc {
   font-size: 0.92rem;
   color: #444;
@@ -231,6 +236,31 @@ subtitle: Selected work in environmental engineering, spatial modeling, and publ
     </div>
   </div>
 
+  <div class="project-card">
+    <div class="project-card-img">
+      <!-- Replace with: <img src="/assets/img/YOUR-IMAGE.png" alt="Predictive mining model figure"> -->
+      Screenshot / figure placeholder
+    </div>
+    <div class="project-card-body">
+      <div class="project-card-title">Predicting Mining Activity from Water Quality Data</div>
+      <div class="project-card-meta">
+        <span class="badge">Predictive Modeling</span>
+        <span class="badge">Machine Learning</span>
+        <span class="badge">R</span>
+        <span class="badge badge-status">In Preparation</span>
+      </div>
+      <div class="project-card-desc">
+        Develops predictive models using water quality and environmental data to infer historical and current mining activity in the Southwestern United States — supporting remote identification of unmapped mine sites.
+      </div>
+      <div class="project-card-tools"><span>Tools:</span> R, machine learning, spatial analysis</div>
+      <p class="funding-note"><!-- Funding source / collaborators placeholder --></p>
+      <div class="project-card-links">
+        <a href="#" class="project-link-btn placeholder">Paper (in prep)</a>
+        <a href="#" class="project-link-btn placeholder">GitHub (coming soon)</a>
+      </div>
+    </div>
+  </div>
+
 </div>
 
 ---
@@ -292,34 +322,102 @@ subtitle: Selected work in environmental engineering, spatial modeling, and publ
 
 ---
 
-## Other Work
+## Personal Tools & Demos
+
+<p style="color:#555; font-size:0.95rem; margin-bottom:1.5rem;">Independent projects built to explore methods and demonstrate capabilities outside of funded research. More coming soon.</p>
 
 <div class="project-grid">
 
+  <!-- PLACEHOLDER: Interactive data viz / dashboard -->
+  <!-- When ready: fill in title, description, tools, and swap placeholder links for real ones -->
   <div class="project-card">
     <div class="project-card-img">
-      <!-- Replace with: <img src="/assets/img/YOUR-IMAGE.png" alt=""> -->
-      Screenshot / figure placeholder
+      Coming soon
     </div>
     <div class="project-card-body">
-      <div class="project-card-title">Predicting Mining Activity from Water Quality Data</div>
+      <div class="project-card-title">Interactive Data Visualization</div>
       <div class="project-card-meta">
-        <span class="badge">Predictive Modeling</span>
-        <span class="badge">R</span>
-        <span class="badge badge-status">In Preparation</span>
+        <span class="badge">Interactive Viz</span>
+        <span class="badge">Dashboard</span>
+        <span class="badge badge-personal">Personal Project</span>
       </div>
       <div class="project-card-desc">
-        Develops predictive models using water quality and environmental data to infer historical and current mining activity in the Southwestern United States — supporting remote identification of unmapped mine sites.
+        <!-- Describe what this dashboard shows, what data it uses, and what decision or insight it supports. -->
       </div>
-      <div class="project-card-tools"><span>Tools:</span> R, machine learning, spatial analysis</div>
-      <p class="funding-note"><!-- Funding source / collaborators placeholder --></p>
+      <div class="project-card-tools"><span>Tools:</span> <!-- e.g., R, ggplot2, plotly, flexdashboard --></div>
       <div class="project-card-links">
-        <a href="#" class="project-link-btn placeholder">Paper (in prep)</a>
+        <a href="#" class="project-link-btn placeholder">Demo (coming soon)</a>
         <a href="#" class="project-link-btn placeholder">GitHub (coming soon)</a>
       </div>
     </div>
   </div>
 
-  <!-- Add more projects here as needed using the same card structure -->
+  <!-- PLACEHOLDER: R Shiny app -->
+  <div class="project-card">
+    <div class="project-card-img">
+      Coming soon
+    </div>
+    <div class="project-card-body">
+      <div class="project-card-title">R Shiny App</div>
+      <div class="project-card-meta">
+        <span class="badge">R Shiny</span>
+        <span class="badge badge-personal">Personal Project</span>
+      </div>
+      <div class="project-card-desc">
+        <!-- Describe the app's purpose, inputs, and outputs. What problem does it solve or illustrate? -->
+      </div>
+      <div class="project-card-tools"><span>Tools:</span> <!-- e.g., R, Shiny, leaflet, sf --></div>
+      <div class="project-card-links">
+        <a href="#" class="project-link-btn placeholder">Shiny App (coming soon)</a>
+        <a href="#" class="project-link-btn placeholder">GitHub (coming soon)</a>
+      </div>
+    </div>
+  </div>
+
+  <!-- PLACEHOLDER: GIS / mapping tool -->
+  <div class="project-card">
+    <div class="project-card-img">
+      Coming soon
+    </div>
+    <div class="project-card-body">
+      <div class="project-card-title">GIS / Mapping Tool</div>
+      <div class="project-card-meta">
+        <span class="badge">GIS</span>
+        <span class="badge">Mapping</span>
+        <span class="badge badge-personal">Personal Project</span>
+      </div>
+      <div class="project-card-desc">
+        <!-- Describe the spatial question this tool addresses, the data sources, and how outputs are used. -->
+      </div>
+      <div class="project-card-tools"><span>Tools:</span> <!-- e.g., R, sf, leaflet, ArcGIS Online --></div>
+      <div class="project-card-links">
+        <a href="#" class="project-link-btn placeholder">Map (coming soon)</a>
+        <a href="#" class="project-link-btn placeholder">GitHub (coming soon)</a>
+      </div>
+    </div>
+  </div>
+
+  <!-- PLACEHOLDER: ML / modeling demo -->
+  <div class="project-card">
+    <div class="project-card-img">
+      Coming soon
+    </div>
+    <div class="project-card-body">
+      <div class="project-card-title">ML / Modeling Demo</div>
+      <div class="project-card-meta">
+        <span class="badge">Machine Learning</span>
+        <span class="badge">Modeling</span>
+        <span class="badge badge-personal">Personal Project</span>
+      </div>
+      <div class="project-card-desc">
+        <!-- Describe the modeling approach, dataset, and what the demo illustrates about your ML workflow. -->
+      </div>
+      <div class="project-card-tools"><span>Tools:</span> <!-- e.g., R, tidymodels, XGBoost, caret --></div>
+      <div class="project-card-links">
+        <a href="#" class="project-link-btn placeholder">Demo (coming soon)</a>
+        <a href="#" class="project-link-btn placeholder">GitHub (coming soon)</a>
+      </div>
+    </div>
+  </div>
 
 </div>
