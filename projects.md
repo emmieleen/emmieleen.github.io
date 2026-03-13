@@ -89,6 +89,12 @@ subtitle: Selected work in environmental engineering, spatial modeling, and publ
   color: #4a5080;
 }
 
+.badge-patent {
+  background: #fff5e6;
+  color: #cc8800;
+  border: 1px solid #cc8800;
+}
+
 .project-card-desc {
   font-size: 0.92rem;
   color: #444;
@@ -212,7 +218,7 @@ subtitle: Selected work in environmental engineering, spatial modeling, and publ
     </div>
   </div>
 
-  <div class="project-card">
+<div class="project-card">
     <div class="project-card-img">
       <!-- Replace with: <img src="/assets/img/YOUR-IMAGE.png" alt="Vulnerability scoring map"> -->
       Screenshot / figure placeholder
@@ -223,6 +229,7 @@ subtitle: Selected work in environmental engineering, spatial modeling, and publ
         <span class="badge">GIS</span>
         <span class="badge">Scoring Model</span>
         <span class="badge badge-status">In Preparation</span>
+        <span class="badge badge-patent">Patent Pending</span>
       </div>
       <div class="project-card-desc">
         A vulnerability scoring framework to prioritize and manage land remediation with a focus on abandoned mines in Arizona. Integrates environmental, socioeconomic, and proximity factors into an adjustable scoring model.
