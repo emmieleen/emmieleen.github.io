@@ -62,5 +62,6 @@ Arizona State University, Barrett the Honors College · GPA: 3.72
 ---
 
 ## Certifications & Memberships
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="97689b6c-8a0e-4519-9338-5570450fb143" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
 **Engineer-in-Training (EIT)** · Tau Beta Pi Engineering Honor Society · ASCE · Society of Water and Environmental Leaders (SWEL) · Society of Women Engineers (SWE)
