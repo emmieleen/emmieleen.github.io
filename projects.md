@@ -160,7 +160,6 @@ subtitle: Selected work in environmental engineering, spatial modeling, and publ
 }
 </style>
 
-<p class="section-intro">I build data-driven tools that help agencies and public health teams turn complex environmental data into clear, actionable decisions — from prioritizing abandoned mine cleanup across the American Southwest to mapping pathogen hotspots in low-resource settings worldwide. My work sits at the intersection of environmental engineering, spatial modeling, and public health.</p>
 
 ---
 
