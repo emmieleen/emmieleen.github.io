@@ -3,7 +3,7 @@ title: CV
 subtitle: Curriculum Vitae
 ---
 
-[Download CV (PDF)](/assets/Bonham_CV_Dec2025.pdf)
+[Download CV (PDF)](/assets/Bonham_CV_Dec2026.pdf)
 
 ---
 
