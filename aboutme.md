@@ -54,7 +54,7 @@ Arizona State University, Barrett the Honors College · GPA: 3.72
 
 ## Selected Publications
 
-- **Bonham, E. E., et al.** *(In review)* — Water Quality Signatures for Prioritizing Abandoned Mine Land Ground-truthing in the Southwestern United States.
+- **Bonham, E. E., et al.** (2026). Water Quality Signatures for Prioritizing Abandoned Mine Land Ground-Truthing in the Southwestern United States. *Environmental Research*. https://doi.org/10.1016/j.envres.2026.124380
 - **Bonham, E. E., et al.** *(In preparation)* — Predicting Mining Activity Using Water Quality and Environmental Data in the Southwestern United States.
 - **Bonham, E. E., et al.** *(In preparation)* — Vulnerability Scoring System to Prioritize and Manage Land Remediation with a Focus on Abandoned Mines in Arizona.
 - Zanin, A., Tietsort, C., Muenich, R., **Bonham, E. E.** (2023). Irrational rationality in organizational decision-making. *Journal of Applied Communication Research, 52*(1), 129–149.
