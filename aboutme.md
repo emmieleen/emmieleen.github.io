@@ -43,12 +43,14 @@ Technical writing & presentation · Multi-stakeholder coordination · Qualtrics 
 **Ph.D., Civil, Environmental, and Sustainable Engineering** *(December 2025)*
 Arizona State University · GPA: 4.00
 *Dissertation: Assessing Abandoned Mine Lands through Water Quality Analysis, Predictive Modeling, and a Vulnerability Mapping Tool*
+[View Dissertation](https://keep.lib.asu.edu/node/203109)
 
 **M.S., Civil, Environmental, and Sustainable Engineering** *(May 2022)*
 Arizona State University · GPA: 3.75
 
 **B.S.E., Environmental Engineering** — Sustainability Minor *(May 2021)*
 Arizona State University, Barrett the Honors College · GPA: 3.72
+*Honors Thesis* · [View Thesis](https://keep.lib.asu.edu/node/171619)
 
 ---
 
