@@ -47,10 +47,11 @@ Arizona State University · GPA: 4.00
 
 **M.S., Civil, Environmental, and Sustainable Engineering** *(May 2022)*
 Arizona State University · GPA: 3.75
+*Master's Thesis* · [View Thesis](https://keep.lib.asu.edu/node/171619)
 
 **B.S.E., Environmental Engineering** — Sustainability Minor *(May 2021)*
 Arizona State University, Barrett the Honors College · GPA: 3.72
-*Honors Thesis* · [View Thesis](https://keep.lib.asu.edu/node/171619)
+*Honors Thesis* · [View Thesis](https://keep.lib.asu.edu/node/148085)
 
 ---
 
